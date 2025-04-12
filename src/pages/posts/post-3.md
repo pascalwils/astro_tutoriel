@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/markdown_post_layout.astro
 title: Mon troisième article de blog
 author: Apprenti Astro
 description: "J'ai eu quelques défis, mais demander de l'aide à la communauté m'a vraiment aidé !"
@@ -8,4 +9,5 @@ image:
 pubDate: 2022-07-15
 tags: ["astro", "apprentissage en public", "obstacles", "communauté"]
 ---
+
 Ce n'était pas toujours tout rose, mais j'adore construire avec Astro. Et, la [communauté Discord](https://astro.build/chat) est vraiment sympathique et serviable !
